@@ -1,66 +1,4 @@
 {
-  "helmet" : [
-  {
-    "h_id": 1,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/146x160.png/5fa2dd/ffffff"
-}, {
-    "h_id": 2,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/165x168.bmp/cc0000/ffffff"
-}, {
-    "h_id": 3,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/106x159.bmp/5fa2dd/ffffff"
-}, {
-    "h_id": 4,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/119x248.jpg/cc0000/ffffff"
-}, {
-    "h_id": 5,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/161x227.jpg/ff4444/ffffff"
-}, {
-    "h_id": 6,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/164x248.jpg/cc0000/ffffff"
-}, {
-    "h_id": 7,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/244x224.bmp/cc0000/ffffff"
-}, {
-    "h_id": 8,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/229x238.png/cc0000/ffffff"
-}, {
-    "h_id": 9,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/248x151.bmp/dddddd/000000"
-}, {
-    "h_id": 10,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/159x169.bmp/ff4444/ffffff"
-}], 
 "users" : [
 {
     "u_id": 1,
@@ -123,6 +61,74 @@
     "age": 14,
     "password": "Adokpass6669"
 }],
+  
+  
+  
+    "helmet" : [
+  {
+    "h_id": 1,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/146x160.png/5fa2dd/ffffff"
+}, {
+    "h_id": 2,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/165x168.bmp/cc0000/ffffff"
+}, {
+    "h_id": 3,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/106x159.bmp/5fa2dd/ffffff"
+}, {
+    "h_id": 4,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/119x248.jpg/cc0000/ffffff"
+}, {
+    "h_id": 5,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/161x227.jpg/ff4444/ffffff"
+}, {
+    "h_id": 6,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/164x248.jpg/cc0000/ffffff"
+}, {
+    "h_id": 7,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/244x224.bmp/cc0000/ffffff"
+}, {
+    "h_id": 8,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/229x238.png/cc0000/ffffff"
+}, {
+    "h_id": 9,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/248x151.bmp/dddddd/000000"
+}, {
+    "h_id": 10,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/159x169.bmp/ff4444/ffffff"
+}], 
+  
+  
+  
   "motorcycle": [
   {
     "brendId": 26,
@@ -185,6 +191,9 @@
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/110320-2021-Yamaha-MT-07-f-150x93.jpg",
     "price": 33000
 }],
+  
+  
+  
 "jacket": [
 {
   "j_id": 1,
@@ -247,6 +256,9 @@
   "size": "",
   "image": "http://dummyimage.com/155x143.jpg/ff4444/ffffff"
 }],
+  
+  
+  
 "gloves" :[
 {
   "g_id": 1,
