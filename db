@@ -1,0 +1,312 @@
+{
+  "helmet" : [
+  {
+    "h_id": 1,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/146x160.png/5fa2dd/ffffff"
+}, {
+    "h_id": 2,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/165x168.bmp/cc0000/ffffff"
+}, {
+    "h_id": 3,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/106x159.bmp/5fa2dd/ffffff"
+}, {
+    "h_id": 4,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/119x248.jpg/cc0000/ffffff"
+}, {
+    "h_id": 5,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/161x227.jpg/ff4444/ffffff"
+}, {
+    "h_id": 6,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/164x248.jpg/cc0000/ffffff"
+}, {
+    "h_id": 7,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/244x224.bmp/cc0000/ffffff"
+}, {
+    "h_id": 8,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/229x238.png/cc0000/ffffff"
+}, {
+    "h_id": 9,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/248x151.bmp/dddddd/000000"
+}, {
+    "h_id": 10,
+    "brend": "",
+    "price": "",
+    "size": "",
+    "image": "http://dummyimage.com/159x169.bmp/ff4444/ffffff"
+}], 
+"users" : [
+{
+    "u_id": 1,
+    "username": "Adok",
+    "email": "adokzhauyr@list.ru",
+    "age": 18,
+    "password": "Adokpass666"
+}, {
+    "u_id": 2,
+    "username": "",
+    "email": "jcubbino1@toplist.cz",
+    "age": 22,
+    "password": "Adokpass6661"
+}, {
+    "u_id": 3,
+    "username": "",
+    "email": "cburdge2@techcrunch.com",
+    "age": 31,
+    "password": "Adokpass6662"
+}, {
+    "u_id": 4,
+    "username": "",
+    "email": "bmccluskey3@yellowpages.com",
+    "age": 41,
+    "password": "Adokpass6664"
+}, {
+    "u_id": 5,
+    "username": "",
+    "email": "jcowland4@taobao.com",
+    "age": 51,
+    "password": "Adokpass6663"
+}, {
+    "u_id": 6,
+    "username": "",
+    "email": "dgeorgescu5@auda.org.au",
+    "age": 61,
+    "password": "Adokpass6665"
+}, {
+    "u_id": 7,
+    "username": "",
+    "email": "charesnaip6@sourceforge.net",
+    "age": 71,
+    "password": "Adokpass6666"
+}, {
+    "u_id": 8,
+    "username": "",
+    "email": "bobreen7@wunderground.com",
+    "age": 81,
+    "password": "Adokpass6667"
+}, {
+    "u_id": 9,
+    "username": "",
+    "email": "lrunnalls8@themeforest.net",
+    "age": 91,
+    "password": "Adokpass6668"
+}, {
+    "u_id": 10,
+    "username": "",
+    "email": "zlichfield9@ameblo.jp",
+    "age": 14,
+    "password": "Adokpass6669"
+}],
+  "motorcycle": [
+  {
+    "brendId": 26,
+    "Id": 1,
+    "ModelName": "Yamaha MT-09",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2021/03/21_Yamaha_MT-09_PIR-John_Burns-907281-150x93.jpg",
+    "price": 35000
+}, {
+    "brendId": 88,
+    "Id": 2,
+    "ModelName": "Yamaha YZF1000R",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2021/02/ace5s-150x93.jpg",
+    "price": 10000
+}, {
+    "brendId": 11,
+    "Id": 3,
+    "ModelName": "Triumph TT600",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2021/01/01tt60001t-150x93.jpg",
+    "price": 15000
+}, {
+    "brendId": 32,
+    "Id": 4,
+    "ModelName": "Aprilia RSV4 R",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/12/Aprilia-RSV4-R_Action-01-150x93.jpg",
+    "price": 20000
+}, {
+    "brendId": 56,
+    "Id": 5,
+    "ModelName": "Ninja ZX-10RR",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/111820-2021-kawasaki-ninja-zx-10rr-wsbk-f-150x93.png",
+    "price": 30000
+}, {
+    "brendId": 89,
+    "Id": 6,
+    "ModelName": "Honda CBR1000R",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/12/Honda-CB1000R_HH8V5940-150x93.jpg",
+    "price": 25000
+}, {
+    "brendId": 47,
+    "Id": 7,
+    "ModelName": "Kawasaki Z H2 SE",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/21ZR1000L_40RGN2DRS3CG_A_3.high_-150x93.jpeg",
+    "price": 30000
+}, {
+    "brendId": 20,
+    "Id": 8,
+    "ModelName": "Yamaha MT-09 SP",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/111020-2021-Yamaha-MT-09-SP-f-150x93.png",
+    "price": 25000
+}, {
+    "brendId": 90,
+    "Id": 9,
+    "ModelName": "Honda CB1000R",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/111020-2021-honda-cb1000r-f2-150x93.jpg"
+    "price": 28000
+}, {
+    "brendId": 61,
+    "Id": 10,
+    "ModelName": "Yamaha MT-07",
+    "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/110320-2021-Yamaha-MT-07-f-150x93.jpg",
+    "price": 33000
+}],
+"jacket": [
+{
+  "j_id": 1,
+  "brend": "",
+  "price": 77,
+  "size": "",
+  "image": "http://dummyimage.com/195x154.jpg/cc0000/ffffff"
+}, {
+  "j_id": 2,
+  "brend": "",
+  "price": 109,
+  "size": "",
+  "image": "http://dummyimage.com/158x132.bmp/ff4444/ffffff"
+}, {
+  "j_id": 3,
+  "brend": "",
+  "price": 106,
+  "size": "",
+  "image": "http://dummyimage.com/242x173.bmp/5fa2dd/ffffff"
+}, {
+  "j_id": 4,
+  "brend": "",
+  "price": 117,
+  "size": "",
+  "image": "http://dummyimage.com/171x115.jpg/5fa2dd/ffffff"
+}, {
+  "j_id": 5,
+  "brend": "",
+  "price": 142,
+  "size": "",
+  "image": "http://dummyimage.com/247x234.bmp/cc0000/ffffff"
+}, {
+  "j_id": 6,
+  "brend": "",
+  "price": 40,
+  "size": "",
+  "image": "http://dummyimage.com/194x194.bmp/cc0000/ffffff"
+}, {
+  "j_id": 7,
+  "brend": "",
+  "price": 42,
+  "size": "",
+  "image": "http://dummyimage.com/135x161.png/ff4444/ffffff"
+}, {
+  "j_id": 8,
+  "brend": "",
+  "price": 188,
+  "size": "",
+  "image": "http://dummyimage.com/248x141.png/5fa2dd/ffffff"
+}, {
+  "j_id": 9,
+  "brend": "",
+  "price": 170,
+  "size": "",
+  "image": "http://dummyimage.com/139x250.bmp/dddddd/000000"
+}, {
+  "j_id": 10,
+  "brend": "",
+  "price": 110,
+  "size": "",
+  "image": "http://dummyimage.com/155x143.jpg/ff4444/ffffff"
+}],
+"gloves" :[
+{
+  "g_id": 1,
+  "brend": "",
+  "price": 49,
+  "size": "",
+  "image": "http://dummyimage.com/134x185.jpg/cc0000/ffffff"
+}, {
+  "g_id": 2,
+  "brend": "",
+  "price": 106,
+  "size": "",
+  "image": "http://dummyimage.com/102x130.jpg/5fa2dd/ffffff"
+}, {
+  "g_id": 3,
+  "brend": "",
+  "price": 158,
+  "size": "",
+  "image": "http://dummyimage.com/237x249.bmp/dddddd/000000"
+}, {
+  "g_id": 4,
+  "brend": "",
+  "price": 194,
+  "size": "",
+  "image": "http://dummyimage.com/127x187.jpg/cc0000/ffffff"
+}, {
+  "g_id": 5,
+  "brend": "",
+  "price": 127,
+  "size": "",
+  "image": "http://dummyimage.com/138x170.bmp/ff4444/ffffff"
+}, {
+  "g_id": 6,
+  "brend": "",
+  "price": 196,
+  "size": "",
+  "image": "http://dummyimage.com/216x219.bmp/dddddd/000000"
+}, {
+  "g_id": 7,
+  "brend": "",
+  "price": 138,
+  "size": "",
+  "image": "http://dummyimage.com/100x221.jpg/ff4444/ffffff"
+}, {
+  "g_id": 8,
+  "brend": "",
+  "price": 190,
+  "size": "",
+  "image": "http://dummyimage.com/246x229.jpg/dddddd/000000"
+}, {
+  "g_id": 9,
+  "brend": "",
+  "price": 95,
+  "size": "",
+  "image": "http://dummyimage.com/105x133.png/ff4444/ffffff"
+}, {
+  "g_id": 10,
+  "brend": "",
+  "price": 53,
+  "size": "",
+  "image": "http://dummyimage.com/203x189.png/dddddd/000000"
+}]
+}
