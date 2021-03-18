@@ -67,64 +67,64 @@
     "helmet" : [
   {
     "h_id": 1,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/146x160.png/5fa2dd/ffffff"
+    "brend": "Bell Qualifier",
+    "price": "26",
+    "size": "S",
+    "image": "https://www.revzilla.com/product_images/0661/2401/bell_qualifier_helmet_black_750x750.jpg"
 }, {
     "h_id": 2,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/165x168.bmp/cc0000/ffffff"
+    "brend": "Scorpion EXO-R420",
+    "price": "24",
+    "size": "M",
+    "image": "https://www.revzilla.com/product_images/0331/1266/scorpion_exo_r420_black_750x750.jpg"
 }, {
     "h_id": 3,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/106x159.bmp/5fa2dd/ffffff"
+    "brend": "AGV K1",
+    "price": "24",
+    "size": "L",
+    "image": "https://www.revzilla.com/product_images/0394/4154/agvk1_helmet_750x750.jpg"
 }, {
     "h_id": 4,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/119x248.jpg/cc0000/ffffff"
+    "brend": "Icon Airflite",
+    "price": "64",
+    "size": "XL",
+    "image": "https://www.revzilla.com/product_images/0356/8841/icon_airflite_helmet_black_750x750.jpg"
 }, {
     "h_id": 5,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/161x227.jpg/ff4444/ffffff"
+    "brend": "Biltwell Lane Splitter",
+    "price": "86",
+    "size": "XXL",
+    "image": "https://www.revzilla.com/product_images/0229/5465/shoei_rfsr_helmet_solid_750x750.jpg"
 }, {
     "h_id": 6,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/164x248.jpg/cc0000/ffffff"
+    "brend": "Icon Airflite Battlescar 2",
+    "price": "63",
+    "size": "XM",
+    "image": "https://www.revzilla.com/product_images/0211/9010/biltwell_lanesplitter_helmet_750x750.jpg"
 }, {
     "h_id": 7,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/244x224.bmp/cc0000/ffffff"
+    "brend": "Shoei RF-SR",
+    "price": "42",
+    "size": "M",
+    "image": "https://www.revzilla.com/product_images/0356/8790/icon_airflite_rubatone_helmet_black_750x750.jpg"
 }, {
     "h_id": 8,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/229x238.png/cc0000/ffffff"
+    "brend": "Shoei RF-1200",
+    "price": "64",
+    "size": "L",
+    "image": "https://www.revzilla.com/product_images/0070/3837/shoei_rf1200_helmet_solid_black_750x750.jpg"
 }, {
     "h_id": 9,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/248x151.bmp/dddddd/000000"
+    "brend": "Icon Airflite Rubatone",
+    "price": "24",
+    "size": "L",
+    "image": "https://www.revzilla.com/product_images/0232/2002/bilt_techno20_helmet_750x750.jpg"
 }, {
     "h_id": 10,
-    "brend": "",
-    "price": "",
-    "size": "",
-    "image": "http://dummyimage.com/159x169.bmp/ff4444/ffffff"
+    "brend": "BILT Techno 2.0",
+    "price": "67",
+    "size": "S",
+    "image": "https://www.revzilla.com/product_images/0405/7850/icon_airflite_battlescar2_helmet_green_750x750.jpg"
 }], 
   
   
@@ -197,64 +197,64 @@
 "jacket": [
 {
   "j_id": 1,
-  "brend": "",
+  "brend": "REAX Alta",
   "price": 77,
-  "size": "",
-  "image": "http://dummyimage.com/195x154.jpg/cc0000/ffffff"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0371/3411/reax_alta_mesh_jacket_750x750.jpg"
 }, {
   "j_id": 2,
-  "brend": "",
+  "brend": "REV'IT! Sand",
   "price": 109,
-  "size": "",
-  "image": "http://dummyimage.com/158x132.bmp/ff4444/ffffff"
+  "size": "XL",
+  "image": "https://www.revzilla.com/product_images/1505/7195/revit_sand4_h2_o_jacket_750x750.jpg"
 }, {
   "j_id": 3,
-  "brend": "",
+  "brend": "Dainese Super Speed",
   "price": 106,
-  "size": "",
-  "image": "http://dummyimage.com/242x173.bmp/5fa2dd/ffffff"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0043/1948/dainese_super_speed_textile_jacket_750x750.jpg"
 }, {
   "j_id": 4,
-  "brend": "",
+  "brend": "Klim Latitude",
   "price": 117,
-  "size": "",
-  "image": "http://dummyimage.com/171x115.jpg/5fa2dd/ffffff"
+  "size": "L",
+  "image": "https://www.revzilla.com/product_images/0348/4876/klim_latitude_jacket_750x750.jpg"
 }, {
   "j_id": 5,
-  "brend": "",
+  "brend": "Sedici Chicane",
   "price": 142,
-  "size": "",
-  "image": "http://dummyimage.com/247x234.bmp/cc0000/ffffff"
+  "size": "L",
+  "image": "https://www.revzilla.com/product_images/1529/3439/sedici_chicane_mesh_jacket_black_black_white_750x750.jpg"
 }, {
   "j_id": 6,
-  "brend": "",
+  "brend": "Merlin Axe",
   "price": 40,
-  "size": "",
-  "image": "http://dummyimage.com/194x194.bmp/cc0000/ffffff"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0367/2882/merlin_axe_zip_up_shirt100_kevlar_750x750.jpg"
 }, {
   "j_id": 7,
-  "brend": "",
+  "brend": "REV'IT! Eclipse",
   "price": 42,
-  "size": "",
-  "image": "http://dummyimage.com/135x161.png/ff4444/ffffff"
+  "size": "L",
+  "image": "https://www.revzilla.com/product_images/0250/7484/revit_eclipse_womens_jacket_black_750x750.jpg"
 }, {
   "j_id": 8,
-  "brend": "",
+  "brend": "Alpinestars GP Plus",
   "price": 188,
-  "size": "",
-  "image": "http://dummyimage.com/248x141.png/5fa2dd/ffffff"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/1517/4674/alpinestars_gp_plus_rv3_rideknit_leather_jacket_750x750.jpg"
 }, {
   "j_id": 9,
-  "brend": "",
+  "brend": "REV'IT! Eclipse",
   "price": 170,
-  "size": "",
-  "image": "http://dummyimage.com/139x250.bmp/dddddd/000000"
+  "size": "L",
+  "image": "https://www.revzilla.com/product_images/0250/7807/revit_eclipse_jacket_black_750x750.jpg"
 }, {
   "j_id": 10,
-  "brend": "",
+  "brend": "Icon Contra 2",
   "price": 110,
-  "size": "",
-  "image": "http://dummyimage.com/155x143.jpg/ff4444/ffffff"
+  "size": "S",
+  "image": "https://www.revzilla.com/product_images/0905/5557/icon_contra2_jacket_stealth_black_750x750.jpg"
 }],
   
   
@@ -262,63 +262,63 @@
 "gloves" :[
 {
   "g_id": 1,
-  "brend": "",
+  "brend": "Alpinestars SMX-1",
   "price": 49,
-  "size": "",
-  "image": "http://dummyimage.com/134x185.jpg/cc0000/ffffff"
+  "size": "S",
+  "image": "https://www.revzilla.com/product_images/0406/3049/alpinestars_smx_air_v2_gloves_750x750.jpg"
 }, {
   "g_id": 2,
-  "brend": "",
+  "brend": "Dainese Blackjack",
   "price": 106,
-  "size": "",
-  "image": "http://dummyimage.com/102x130.jpg/5fa2dd/ffffff"
+  "size": "S",
+  "image": "https://www.revzilla.com/product_images/0217/2147/dainese_blackjack_gloves_750x750.jpg"
 }, {
   "g_id": 3,
-  "brend": "",
+  "brend": "https://www.revzilla.com/product_images/0051/7602/scorpion_klaw_ii_gloves_750x750.jpg",
   "price": 158,
-  "size": "",
-  "image": "http://dummyimage.com/237x249.bmp/dddddd/000000"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0051/7602/scorpion_klaw_ii_gloves_750x750.jpg"
 }, {
   "g_id": 4,
-  "brend": "",
+  "brend": "Alpinestars SMX-2",
   "price": 194,
-  "size": "",
-  "image": "http://dummyimage.com/127x187.jpg/cc0000/ffffff"
+  "size": "S",
+  "image": "https://www.revzilla.com/product_images/0268/2695/alpinestars_smx2_acv2_glove_black_750x750.jpg"
 }, {
   "g_id": 5,
-  "brend": "",
+  "brend": "Alpinestars GP Plus",
   "price": 127,
-  "size": "",
-  "image": "http://dummyimage.com/138x170.bmp/ff4444/ffffff"
+  "size": "S",
+  "image": "https://www.revzilla.com/product_images/0218/6019/alpinestars_gp_plus_r_gloves_750x750.jpg"
 }, {
   "g_id": 6,
-  "brend": "",
+  "brend": "Freeze-Out Warm'R",
   "price": 196,
-  "size": "",
-  "image": "http://dummyimage.com/216x219.bmp/dddddd/000000"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0408/3404/freeze_out_warm_r_glove_liners_black_grey_750x750.jpg"
 }, {
   "g_id": 7,
-  "brend": "",
+  "brend": "Scorpion EXO",
   "price": 138,
-  "size": "",
-  "image": "http://dummyimage.com/100x221.jpg/ff4444/ffffff"
+  "size": "S",
+  "image": "https://www.revzilla.com/product_images/0169/6337/scorpion_sgsmkii_gloves_black_750x750.jpg"
 }, {
   "g_id": 8,
-  "brend": "",
+  "brend": "BILT Sprint",
   "price": 190,
-  "size": "",
-  "image": "http://dummyimage.com/246x229.jpg/dddddd/000000"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0188/0842/bilt_sprint_gloves_black_750x750.jpg"
 }, {
   "g_id": 9,
-  "brend": "",
+  "brend": "Icon Anthem 2",
   "price": 95,
-  "size": "",
-  "image": "http://dummyimage.com/105x133.png/ff4444/ffffff"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/1026/3355/icon_glove_anthem2_stealth_black_750x750.jpg"
 }, {
   "g_id": 10,
-  "brend": "",
+  "brend": "Dainese MIG C2",
   "price": 53,
-  "size": "",
-  "image": "http://dummyimage.com/203x189.png/dddddd/000000"
+  "size": "M",
+  "image": "https://www.revzilla.com/product_images/0100/9378/dainese_migc2_gloves_black_black_black_750x750.jpg"
 }]
 }
