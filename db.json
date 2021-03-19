@@ -133,61 +133,61 @@
   {
     "brendId": 26,
     "Id": 1,
-    "ModelName": "Yamaha MT-09",
+    "brend": "Yamaha MT-09",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2021/03/21_Yamaha_MT-09_PIR-John_Burns-907281-150x93.jpg",
     "price": 35
 }, {
     "brendId": 88,
     "Id": 2,
-    "ModelName": "Yamaha YZF1000R",
+    "brend": "Yamaha YZF1000R",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2021/02/ace5s-150x93.jpg",
     "price": 10
 }, {
     "brendId": 11,
     "Id": 3,
-    "ModelName": "Triumph TT600",
+    "brend": "Triumph TT600",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2021/01/01tt60001t-150x93.jpg",
     "price": 15
 }, {
     "brendId": 32,
     "Id": 4,
-    "ModelName": "Aprilia RSV4 R",
+    "brend": "Aprilia RSV4 R",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/12/Aprilia-RSV4-R_Action-01-150x93.jpg",
     "price": 20
 }, {
     "brendId": 56,
     "Id": 5,
-    "ModelName": "Ninja ZX-10RR",
+    "brend": "Ninja ZX-10RR",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/111820-2021-kawasaki-ninja-zx-10rr-wsbk-f-150x93.png",
     "price": 30
 }, {
     "brendId": 89,
     "Id": 6,
-    "ModelName": "Honda CBR1000R",
+    "brend": "Honda CBR1000R",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/12/Honda-CB1000R_HH8V5940-150x93.jpg",
     "price": 25
 }, {
     "brendId": 47,
     "Id": 7,
-    "ModelName": "Kawasaki Z H2 SE",
+    "brend": "Kawasaki Z H2 SE",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/21ZR1000L_40RGN2DRS3CG_A_3.high_-150x93.jpeg",
     "price": 30
 }, {
     "brendId": 20,
     "Id": 8,
-    "ModelName": "Yamaha MT-09 SP",
+    "brend": "Yamaha MT-09 SP",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/111020-2021-Yamaha-MT-09-SP-f-150x93.png",
     "price": 25
 }, {
     "brendId": 90,
     "Id": 9,
-    "ModelName": "Honda CB1000R",
+    "brend": "Honda CB1000R",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/111020-2021-honda-cb1000r-f2-150x93.jpg",
     "price": 28
 }, {
     "brendId": 61,
     "Id": 10,
-    "ModelName": "Yamaha MT-07",
+    "brend": "Yamaha MT-07",
     "image": "https://www.motorcycle.com/blog/wp-content/uploads/2020/11/110320-2021-Yamaha-MT-07-f-150x93.jpg",
     "price": 33
 }],
